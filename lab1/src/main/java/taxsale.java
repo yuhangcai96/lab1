@@ -1,3 +1,6 @@
+
+import java.util.Scanner;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -34,4 +37,5 @@ public class taxsale {
         System.out.println("The total sales tax: "+ thetotalsalesTax);
         
         System.out.println("The total of the sale: "+ thetotaloftheSale);
+}
 }
